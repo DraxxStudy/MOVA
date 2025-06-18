@@ -1,0 +1,9 @@
+ * Serving Flask app 'app.py'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [17/Jun/2025 15:43:11] "POST /api/sessions HTTP/1.1" 201 -
+127.0.0.1 - - [17/Jun/2025 15:43:11] "GET /api/sessions HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 15:43:11] "PUT /api/sessions/d879166eec4044d389162fe5fed0bb99/end HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 15:43:11] "GET /api/sessions HTTP/1.1" 200 -
